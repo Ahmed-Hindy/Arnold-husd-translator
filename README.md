@@ -2,9 +2,11 @@
 
 Translates Obj Arnold lights into Solaris USD prims.
 
+![img.png](images/img.png)
+image compares Arnold ROP render (bot) and Arnold Solaris (top) Renders using Arnold lights made in OBJ.
 
 ## Features
-- Translates Obj Arnold lights into Solaris USD prims.
+- Translates Arnold Obj lights into Solaris USD prims.
 - Translates all its properties into renderer-agnostic USD attributes.
 
 
