@@ -13,5 +13,6 @@ Translates Obj Arnold lights into Solaris USD prims.
 
 
 ## Usage
-- restart Houdini and in a Solaris scene, drop a 'Scene Import (Lights)' LOP node.
+- restart Houdini, then in a Solaris scene, drop a 'Scene Import (Lights)' LOP node.\
+- It will now import all Obj Arnold Lights into the Solaris scene.
 
